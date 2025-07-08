@@ -1,10 +1,10 @@
-Start testing: Jul 08 10:28 India Standard Time
+Start testing: Jul 08 12:41 India Standard Time
 ----------------------------------------------------------
 1/2 Testing: test_add01
 1/2 Test: test_add01
 Command: "C:/Users/Administrator/Desktop/test_calc_v1/out/build/x64-Debug/test_add01.exe"
 Directory: C:/Users/Administrator/Desktop/test_calc_v1/out/build/x64-Debug
-"test_add01" start time: Jul 08 10:28 India Standard Time
+"test_add01" start time: Jul 08 12:41 India Standard Time
 Output:
 ----------------------------------------------------------
 Running the test cases 
@@ -13,7 +13,7 @@ Running the test cases
 Test time =   0.06 sec
 ----------------------------------------------------------
 Test Passed.
-"test_add01" end time: Jul 08 10:28 India Standard Time
+"test_add01" end time: Jul 08 12:41 India Standard Time
 "test_add01" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -21,17 +21,17 @@ Test Passed.
 2/2 Test: test_add02
 Command: "C:/Users/Administrator/Desktop/test_calc_v1/out/build/x64-Debug/test_add02.exe"
 Directory: C:/Users/Administrator/Desktop/test_calc_v1/out/build/x64-Debug
-"test_add02" start time: Jul 08 10:28 India Standard Time
+"test_add02" start time: Jul 08 12:41 India Standard Time
 Output:
 ----------------------------------------------------------
 Running the test cases 
  ended the test
 <end of output>
-Test time =   0.05 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"test_add02" end time: Jul 08 10:28 India Standard Time
+"test_add02" end time: Jul 08 12:41 India Standard Time
 "test_add02" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Jul 08 10:28 India Standard Time
+End testing: Jul 08 12:41 India Standard Time
